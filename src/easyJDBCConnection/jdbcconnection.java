@@ -23,7 +23,7 @@ public class jdbcconnection {
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		} finally {
-			System.out.println("fin da lista");
+			System.out.println("fin da lista que vem da bd");
 		}
 
 
